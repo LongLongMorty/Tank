@@ -9,3 +9,7 @@
 >You can operate a tank,and move it and fire bullets to destroy obstacles and other tanks.  
 There are some other tanks which will move and attack you by firing bullets.  
 I do not have a lot of free time and I am not good at writing the code,so I think this project will be finished by July 1st. 
+***
+### 2022.5.3  
+今天实现了界面背景与嘉然坦克的绘制  
+![tank](https://raw.githubusercontent.com/LongLongMorty/Tank/main/Screenshot%202022-05-03%20185927.png)
